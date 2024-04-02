@@ -1,5 +1,5 @@
 ### Hi there 👋
-Microsoft Excel
+I'm an Aspiring Data Analyst 
 <!--
 **Ishan112-web/Ishan112-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
