@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Arora</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **MS Excel, SQL, MYSQL, Tableau, MS Power BI, Python**
+- 🌱 I’m currently learning **MS Excel, SQL, Tableau, MS Power BI, Python**
 
 - 📫 How to reach me **auroraishan1120@gmail.com**
 
